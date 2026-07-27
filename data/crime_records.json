@@ -1,0 +1,28 @@
+[
+ {
+  "case_id": "C001",
+  "crime_type": "Robbery",
+  "location": "Delhi",
+  "date": "2024-01-10",
+  "suspect": "Unknown Male",
+  "features": "black hair, oval face, scar on left cheek"
+ },
+
+ {
+  "case_id": "C002",
+  "crime_type": "Murder",
+  "location": "Mumbai",
+  "date": "2023-06-15",
+  "suspect": "Unknown Person",
+  "features": "short hair, beard, round face"
+ },
+
+ {
+  "case_id": "C003",
+  "crime_type": "Kidnapping",
+  "location": "Lucknow",
+  "date": "2024-02-20",
+  "suspect": "Unknown Male",
+  "features": "tall person, black hair, mark near eye"
+ }
+]

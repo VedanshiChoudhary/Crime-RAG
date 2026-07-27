@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+
+.DS_Store
+
+models/
+
+*.html
+*.tmp
+
+.env
+
+lib/
+
+
